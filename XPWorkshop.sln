@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPWorkshop", "XPWorkshop\XPWorkshop.csproj", "{DDFC45A8-B1CB-4FBA-9D35-45EDD56123DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPWorkshop.Tests", "XPWorkshop.Tests\XPWorkshop.Tests.csproj", "{4AD3122D-C293-40ED-ABC1-1F1767FC4CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFC45A8-B1CB-4FBA-9D35-45EDD56123DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFC45A8-B1CB-4FBA-9D35-45EDD56123DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFC45A8-B1CB-4FBA-9D35-45EDD56123DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFC45A8-B1CB-4FBA-9D35-45EDD56123DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD3122D-C293-40ED-ABC1-1F1767FC4CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD3122D-C293-40ED-ABC1-1F1767FC4CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD3122D-C293-40ED-ABC1-1F1767FC4CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD3122D-C293-40ED-ABC1-1F1767FC4CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2BADE2D-D6EC-49E2-AB2C-35F29E7E4FC6}
+	EndGlobalSection
+EndGlobal
